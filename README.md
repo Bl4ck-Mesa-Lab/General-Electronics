@@ -2,7 +2,7 @@
 
 ## Desciption : 
 
-This project contains all informations about desing and coding of sensors embedded in a camera housing for diving.
+This project contains all informations about design and coding of sensors embedded in a camera housing for diving.
 
 ## Equipemnt used : 
 
