@@ -1,5 +1,21 @@
-#
-Embedded_Diving_Sensors
-The aim of this repository is to contain all information on the manufacture and use of sensors embedded in a camera housing for diving.
+# Embedded Diving Sensors
+
+## Desciption : 
+
+This project contains all informations about desing and coding of sensors embedded in a camera housing for diving.
+
+## Equipemnt used : 
+
+- Raspberry Pico WH
+- OLED Screen SSD160
+- Temperature Humidity and Pressure sensors BME180
+
+## Software used : 
+
+- Thonny Pyhton : https://thonny.org/
+- Frizting : https://fritzing.org/
+- Python
+
+## Deesign POC : 
 
 <img src="https://github.com/CletBoudehenn/Embedded_Diving_Sensors/blob/main/Fritzing/Component_Design.png"/>
