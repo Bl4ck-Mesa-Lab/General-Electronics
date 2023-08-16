@@ -1,11 +1,6 @@
-'''
-// Read BME280 and
-// show on i2c-OLED
-// Autor:   Joern Weise
-// License: GNU GPl 3.0
-// Created: 23. Oct 2021
-// Update: 24. Oct 2021
-'''
+"""
+// Update: 16. Aug 2023
+"""
 #First import needed libs
 from ssd1306 import SSD1306_I2C #Import from Lib the needed subpart
 from bme280 import BME280 #Import BME280-lib
