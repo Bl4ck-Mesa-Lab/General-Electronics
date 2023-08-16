@@ -1,10 +1,5 @@
 """
-// Read internal temp-sensor and
-// show on i2c-OLED
-// Autor:   Joern Weise
-// License: GNU GPl 3.0
-// Created: 23. Oct 2021
-// Update: 24. Oct 2021
+// Update: 16. Aug 2023
 """
 
 
