@@ -4,13 +4,13 @@
 
 This project contains all informations about design and coding of sensors embedded in a camera housing for diving.
 
-## Equipemnt used : 
+## Equipments used : 
 
 - Raspberry Pico WH
 - OLED Screen SSD160
 - Temperature Humidity and Pressure sensors BME180
 
-## Software used : 
+## Softwares used : 
 
 - Thonny Pyhton : https://thonny.org/
 - Frizting : https://fritzing.org/
