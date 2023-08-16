@@ -16,6 +16,6 @@ This project contains all informations about design and coding of sensors embedd
 - Frizting : https://fritzing.org/
 - Python
 
-## Deesign POC : 
+## Design POC : 
 
 <img src="https://github.com/CletBoudehenn/Embedded_Diving_Sensors/blob/main/Fritzing/Component_Design.png"/>
