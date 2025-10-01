@@ -43,4 +43,4 @@ But you can use thonny instead.
 
 ## Design POC: 
 
-<img src="https://github.com/Bl4ck-Mesa-Lab/General-Electronics/blob/main/Pictures/Example.png"/>
+<img src="[https://github.com/Bl4ck-Mesa-Lab/General-Electronics/blob/main/Pictures/Example.png](https://github.com/Bl4ck-Mesa-Lab/General-Electronics/blob/main/Dynamic_Patient_Management/Pictures/Example.png)"/>
